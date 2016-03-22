@@ -1,0 +1,10 @@
+NET "a" LOC = G18;
+NET "b" LOC = H18;
+NET "c" LOC = K18;
+NET "d" LOC = K17;
+NET "e" LOC = L14;
+NET "f" LOC = L13;
+NET "g" LOC = N17;
+NET "h" LOC = R17;
+
+NET "y" LOC = J14;

@@ -1,0 +1,37 @@
+NET "A0" LOC = G18;
+NET "A1" LOC = H18;
+NET "A2" LOC = K18;
+NET "B0" LOC = K17;
+NET "B1" LOC = L14;
+NET "B2" LOC = L13;
+NET "o0" LOC = N17;
+NET "o1" LOC = R17;
+NET "S" LOC = B18;
+
+NET "a" LOC = L18;
+NET "b" LOC = F18;
+NET "c" LOC = D17;
+NET "d" LOC = D16;
+NET "e" LOC = G14;
+NET "f" LOC = J17;
+NET "g" LOC = H14;
+NET "dp" LOC = J14;
+
+//leds
+//NET "r8" LOC = J15;
+//NET "r9" LOC = K15;
+//NET "r10" LOC = K14;
+//NET "r11" LOC = E16;
+//NET "r12" LOC = P16;
+//NET "r13" LOC = E4;
+//NET "r14" LOC = P4;
+
+NET "AN0" LOC = F17;
+NET "AN1" LOC = H17;
+NET "AN2" LOC = C18;
+NET "AN3" LOC = F15;
+
+NET "b1" LOC = B18;
+//NET "b2" LOC = D18;
+//NET "b3" LOC = E18;
+//NET "b4" LOC = H13;
