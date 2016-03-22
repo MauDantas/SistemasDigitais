@@ -1,3 +1,4 @@
+//modificado para git
 //Quinta questão, circuito aritmetico
 module aritmetico(s1, s0,cin, A, B, F);
 	input s1,s0,cin;
