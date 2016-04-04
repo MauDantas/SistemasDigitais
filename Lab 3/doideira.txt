@@ -1,0 +1,6 @@
+module Main(output [7:0]diplay,input [3:0]sw,input CCLK,output AN0, AN1, AN2, AN3);
+	wire [3:0] carga1,carga2,carga3,carga4,s1,s2,s3,s4;
+	wire clk;
+	clock CCC(CCLK, 25000, clk);
+	crtl_displays(clk, d0, d1, d2, d3, AN0, AN1, AN2, AN3, inputDisplay);
+endmodule 

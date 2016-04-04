@@ -21,7 +21,7 @@ module countpr(up,carregamento, carga, clk, s, cin, cout, init, reset);
 					begin
 					if(s<4'd9)
 						s<=s+1;
-						else
+					else
 						begin
 						s<=4'd0;
 						cout<=1;
@@ -29,7 +29,7 @@ module countpr(up,carregamento, carga, clk, s, cin, cout, init, reset);
 					end
 				else 
 					begin
-					if(s=4'd0)
+					if(s==4'd0)
 						begin
 						s<=4'd9;
 						cout<=1;
